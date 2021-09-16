@@ -2,3 +2,5 @@
 features
 call
 emoji
+
+video call
